@@ -1,15 +1,14 @@
-# Application Name
+# My Portfolio
 
-#### Brief description of application
+#### A portfolio describing myself and showcasing some coding work completed in my time at Epicodus
 
-#### By _**{List of contributors}**_
+#### By: Jay Carr; https://github.com/jaycarrr
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* Bootstrap
+* HTML
+* CSS
 
 ## Description
 
@@ -23,17 +22,7 @@ This is a test readme for a practice project. Not a detailed description of my a
 * _easy-to-understand_
 * _format_
 
-Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.
-
-## Known Bugs
-
-* _Any known issues_
-* _should go here_
 
 ## License
 
-Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.
-
-## Contact Information
-
-Add your contact information here.
+MIT
